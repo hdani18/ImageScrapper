@@ -22,5 +22,5 @@ This Python script provides functionality to scrape images from a web page given
 
 ## Performance Improvement
 - The use of threading reduces the processing time significantly by enabling parallel execution of image downloads.
-- The average time taken to download images using threading is reduced from approximately 29 seconds to around 2 seconds, resulting in a performance improvement of approximately 93%.
+- The average time taken to download images using threading is reduced significantly, resulting in a performance improvement of approximately 93%.
 
